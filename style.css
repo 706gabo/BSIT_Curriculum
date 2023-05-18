@@ -1,0 +1,44 @@
+* {
+    font-family: Arial, sans-serif;
+    
+}
+html {
+  background-image: url('https://upload.wikimedia.org/wikipedia/en/0/06/PUP_Mabini_Campus_-_pylon_%28side_view%29_%28PUP%2C_Santa_Mesa%2C_Manila%29%282018-03-06%29.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(137, 216, 198, 0.844);
+  background-blend-mode: overlay;
+
+}
+body{
+  height: 90%;
+  margin-left: 8%;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+
+h1{
+  text-align: left;
+  padding: .5px;
+}
+h3{
+  padding: 5px;
+  text-align: center;
+  border: 1px solid;
+  background-color: rgba(240, 244, 18, 0.523);
+}
+
+table{
+    width: 100%;
+}
+  
+th, td {
+    padding: 5px;
+    text-align: left;
+    border: 1px solid;
+    background-color: rgba(13, 5, 245, 0.334);
+}
+  
+
