@@ -1,4 +1,5 @@
 # BSIT_Curriculum
 
-This is the link of my current enrolled subjects.
+My current enrolled subjects can be seen at this link.
+
 https://706gabo.github.io/BSIT_Curriculum/
